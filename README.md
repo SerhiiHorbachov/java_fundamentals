@@ -1,7 +1,7 @@
 # java_fundamentals
 
-Реализовать следующие программы:
-1.     Приветствовать любого пользователя при вводе его имени через командную строку.
+Implement the following applications: 
+1. [GitHub](./greeting) Greeting Greet any users when he enters his name in the command line.
 
 2.     Отобразить в окне консоли аргументы командной строки в обратном порядке.
 
